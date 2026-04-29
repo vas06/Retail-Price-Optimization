@@ -1,37 +1,49 @@
-**Retail Price Optimization System**
+# 📊 Retail Price Optimization System
 
-**Overview**
-AI-powered system to optimize product pricing
-Uses sales data to predict demand
-Helps maximize revenue through smart pricing
+## 🔍 Overview
+An AI-powered system that optimizes product pricing using machine learning.  
+It analyzes sales data and predicts demand to recommend optimal prices that maximize revenue.
 
-**Objectives**
-Predict demand based on price
-Recommend optimal pricing
-Maximize revenue and profitability
+---
 
-**Tech Stack**
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
+## 🎯 Objectives
+- Predict product demand based on pricing and other factors  
+- Recommend optimal pricing strategies  
+- Maximize revenue and profitability  
 
-**Models Used**
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
+---
 
-**Evaluation**
-Mean Squared Error (MSE)
-R² Score
-5-Fold Cross Validation
+## 🛠️ Tech Stack
+- **Python**  
+- **Pandas, NumPy**  
+- **Scikit-learn**  
+- **Matplotlib, Seaborn**  
 
-**Key Insights**
-Demand decreases as price increases
-Pricing directly impacts revenue
-Random Forest gives better performance
+---
 
-**Output**
-Demand prediction
-Optimal price recommendation
-Revenue optimization graphs
+## 🤖 Models Used
+- **Linear Regression**  
+- **Decision Tree Regressor**  
+- **Random Forest Regressor** *(Best Performing Model)*  
+
+---
+
+## 📈 Evaluation Metrics
+- Mean Squared Error (MSE)  
+- R² Score  
+- 5-Fold Cross Validation  
+
+---
+
+## 💡 Key Insights
+- Demand decreases as price increases  
+- Pricing significantly impacts revenue  
+- Random Forest provides better performance  
+
+---
+
+## 📊 Output
+- Demand prediction  
+- Optimal price recommendation  
+- Revenue optimization graphs  
+
